@@ -357,6 +357,7 @@ height: 25vh;
 .footer > h2 {
 font-size: 3rem;
 text-align: center;
+margin-bottom: 0.5rem;
 }
 .footer > h3 {
 font-weight: 200;
